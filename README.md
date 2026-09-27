@@ -39,6 +39,6 @@ Driven by a passion for building scalable Machine Learning pipelines, model depl
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** [email_cua_ban@gmail.com]
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile]
-- 📝 **CV/Resume:** [Link Google Drive CV của bạn]
+- 📧 **Email:** [phamminhduong280325@gmail.com]
+- 💼 **LinkedIn:** [www.linkedin.com/in/phạm-minh-dương-937190385]
+- 📝 **CV/Resume:** []
