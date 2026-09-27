@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Pham Minh Duong 👋
 
-<!--
-**Pham-Minh-Duong/Pham-Minh-Duong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS Student | Aspiring AI & MLOps Engineer**  
+Driven by a passion for building scalable Machine Learning pipelines, model deployment, and RAG systems. Currently looking for an **AI Engineer / MLOps Intern** position to contribute and gain hands-on experience in production environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 **Focus Areas:** Machine Learning, MLOps, LLMOps, Model Deployment, RAG.
+- 🛠️ **Current Learning:** Fine-tuning Open-Source Models, Dockerizing AI Services, Vector Databases.
+- ⚡ **Goals:** Building reliable end-to-end ML solutions and automating pipeline workflows.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+**Languages:**
+`Python` `C++` `SQL` `Bash`
+
+**AI / ML Frameworks:**
+`PyTorch` `Scikit-Learn` `OpenCV` `Hugging Face` `LangChain`
+
+**MLOps & DevOps Tools:**
+`Docker` `Git / GitHub` `MLflow` `FastAPI` `Vector DBs (Chroma/Qdrant)`
+
+**Databases & Storage:**
+`PostgreSQL` `MongoDB` `Redis`
+
+---
+
+### 📊 GitHub Stats
+
+![Pham Minh Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pham-Minh-Duong&show_icons=true&theme=radial)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pham-Minh-Duong&layout=compact&theme=radial)
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email:** [email_cua_ban@gmail.com]
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile]
+- 📝 **CV/Resume:** [Link Google Drive CV của bạn]
