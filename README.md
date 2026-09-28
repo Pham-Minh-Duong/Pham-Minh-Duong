@@ -41,14 +41,6 @@ Driven by a passion for building scalable Machine Learning pipelines, model depl
 
 ---
 
-### 📊 GitHub Stats
-
-![Pham Minh Duong's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pham-Minh-Duong&show_icons=true&theme=radial)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pham-Minh-Duong&layout=compact&theme=radial)
-
----
-
 ### 📫 Connect with Me
 
 - 📧 **Email:** [phamminhduong280325@gmail.com](mailto:phamminhduong280325@gmail.com)
