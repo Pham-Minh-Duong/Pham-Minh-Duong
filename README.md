@@ -15,7 +15,7 @@ Driven by a passion for building scalable Machine Learning pipelines, model depl
 
 ### 📌 Featured Projects
 
-- **[Project Name 1]([https://github.com/Pham-Minh-Duong/your-repo-name](https://github.com/Pham-Minh-Duong/personal-kb-rag))** - *RAG & LLM Application*
+- **[Project Name 1](https://github.com/Pham-Minh-Duong/personal-kb-rag)** - *RAG & LLM Application*
   - **Tech Stack:** `Python`, `LangChain`, `ChromaDB`, `FastAPI`, `Docker`
   - **Key Features:** Xây dựng hệ thống tra cứu văn bản thông minh, đóng gói container và tối ưu thời gian phản hồi API.
 
