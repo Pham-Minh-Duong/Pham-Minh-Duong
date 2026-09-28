@@ -54,4 +54,4 @@ Driven by a passion for building scalable Machine Learning pipelines, model depl
 
 - 📧 **Email:** [phamminhduong280325@gmail.com](mailto:phamminhduong280325@gmail.com)
 - 💼 **LinkedIn:** [phạm-minh-dương](https://www.linkedin.com/in/ph%E1%BA%A1m-minh-d%C6%B0%C6%A1ng-937190385)
-- 📝 **CV/Resume:** [View My Resume](https://your-cv-link-here.com)
+- 📝 **CV/Resume:** [View My Resume]([https://your-cv-link-here.com](https://drive.google.com/file/d/1EwZo4GkcxnYwh0cXbYGL4zXhTqvB_RKU/view?usp=drive_link))
