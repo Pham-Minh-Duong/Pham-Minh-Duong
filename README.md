@@ -43,9 +43,9 @@ Driven by a passion for building scalable Machine Learning pipelines, model depl
 
 ### 📊 GitHub Stats
 
-![Pham Minh Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pham-Minh-Duong&show_icons=true&theme=radial)
+![Pham Minh Duong's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pham-Minh-Duong&show_icons=true&theme=radial)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pham-Minh-Duong&layout=compact&theme=radial)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pham-Minh-Duong&layout=compact&theme=radial)
 
 ---
 
