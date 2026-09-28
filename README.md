@@ -15,7 +15,7 @@ Driven by a passion for building scalable Machine Learning pipelines, model depl
 
 ### 📌 Featured Projects
 
-- **[Project Name 1](https://github.com/Pham-Minh-Duong/personal-kb-rag)** - *RAG & LLM Application*
+- **[Personal Knowledge Base RAG](https://github.com/Pham-Minh-Duong/personal-kb-rag)** - *RAG & LLM Application*
   - **Tech Stack:** `Python`, `LangChain`, `ChromaDB`, `FastAPI`, `Docker`
   - **Key Features:** Xây dựng hệ thống tra cứu văn bản thông minh, đóng gói container và tối ưu thời gian phản hồi API.
 
@@ -53,5 +53,5 @@ Driven by a passion for building scalable Machine Learning pipelines, model depl
 ### 📫 Connect with Me
 
 - 📧 **Email:** [phamminhduong280325@gmail.com](mailto:phamminhduong280325@gmail.com)
-- 💼 **LinkedIn:** [phạm-minh-dương](https://www.linkedin.com/in/ph%E1%BA%A1m-minh-d%C6%B0%C6%A1ng-937190385)
-- 📝 **CV/Resume:** [View My Resume]([https://your-cv-link-here.com](https://drive.google.com/file/d/1EwZo4GkcxnYwh0cXbYGL4zXhTqvB_RKU/view?usp=drive_link))
+- 💼 **LinkedIn:** [Phạm Minh Dương](https://www.linkedin.com/in/ph%E1%BA%A1m-minh-d%C6%B0%C6%A1ng-937190385)
+- 📝 **CV/Resume:** [View My Resume](https://drive.google.com/file/d/1EwZo4GkcxnYwh0cXbYGL4zXhTqvB_RKU/view?usp=drive_link)
